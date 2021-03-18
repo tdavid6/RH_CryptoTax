@@ -1,0 +1,6 @@
+.vs/*
+Debug/*
+RH_CryptoTax/Debug/*
+RH_CryptoTax/RH_CryptoTax.vcxproj
+RH_CryptoTax/RH_CryptoTax.vcxproj.filters
+RH_CryptoTax.sln
